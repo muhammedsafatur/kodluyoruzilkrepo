@@ -15,8 +15,8 @@ git clone https//:adoessuor/kodluyoruzilkrepo.git
  ```
  ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-[Proje resmi linki](https://github.com/Adoessuor/kodluyoruzilkrepo/blob/a5073f720944c3b67f4363f243ee4048bb9030a2/readme.md_ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
-
+[Proje resmi linki](https://github.com/Adoessuor/kodluyoruzilkrepo/blob/main/proje%20png/readme.md_ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
+![Proje resmi](https://github.com/Adoessuor/kodluyoruzilkrepo/blob/main/proje%20png/readme.md_ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
